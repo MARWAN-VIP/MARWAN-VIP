@@ -7,8 +7,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.https://www.youtube.com/@%D9%85%D9%84%D9%8A%D9%88%D9%861" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://discord.gg/djQnbrZNzP" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
